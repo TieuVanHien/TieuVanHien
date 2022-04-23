@@ -6,4 +6,4 @@
 
 -->
 
-![TieuVanHien's Stats](https://github-readme-stats.vercel.app/api?username=TieuVanHien&theme=cobalt&show_icons=true)
+![TieuVanHien's Stats](https://github-readme-stats.vercel.app/api?username=TieuVanHien&theme=Gradient&show_icons=true)
