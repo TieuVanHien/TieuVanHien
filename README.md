@@ -6,5 +6,6 @@
 
 -->
 
-![TieuVanHien's Stats](https://github-readme-stats.vercel.app/api?username=TieuVanHien&theme=blueberry&show_icons=true)
+![TieuVanHien's Stats](https://github-readme-stats.vercel.app/api?username=TieuVanHien&theme=blueberry&show_icons=true)  </br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TieuVanHien&layout=compact)](https://github.com/TieuVanHien/github-readme-stats)
 
