@@ -9,7 +9,7 @@
 </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TieuVanHien&layout=compact&theme=dracula)](https://github.com/TieuVanHien/github-readme-stats)
 </br>
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=your-github-username&color=ff69b4)
 
 ## My Tech Stack
 
