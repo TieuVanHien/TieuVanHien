@@ -7,7 +7,7 @@
 -->
 ![TieuVanHien's GitHub stats](https://github-readme-stats.vercel.app/api?username=TieuVanHien&show_icons=true&theme=gruvbox)
 </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TieuVanHien&layout=compact)](https://github.com/TieuVanHien/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TieuVanHien&layout=compact&cache_seconds=86400)](https://github.com/TieuVanHien/github-readme-stats)
 </br>
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=ff69b4)
 
