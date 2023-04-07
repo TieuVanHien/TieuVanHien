@@ -16,6 +16,8 @@
 
 ![](https://img.shields.io/badge/Frontend-React.js-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/Frontend-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/Programming%20Language-TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=for-the-badge)
+![](https://img.shields.io/badge/Programming%20Language-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/Frontend-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/Frontend-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/Frontend-SASS/SCSS-CC6699?logo=sass&logoColor=white&style=for-the-badge)
@@ -23,7 +25,6 @@
 ![](https://img.shields.io/badge/Database-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/Database-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/Frontend-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=for-the-badge)
-![](https://img.shields.io/badge/Programming%20Language-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/Design%20Tool-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/Backend-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/Version%20Control-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
