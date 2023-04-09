@@ -18,6 +18,8 @@
 ![](https://img.shields.io/badge/Frontend-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/Programming%20Language-TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=for-the-badge)
 ![](https://img.shields.io/badge/Programming%20Language-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/Frontend-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/Frontend-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/Frontend-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/Frontend-SASS/SCSS-CC6699?logo=sass&logoColor=white&style=for-the-badge)
