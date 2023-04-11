@@ -8,7 +8,7 @@
 ## My Github Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TieuVanHien&theme=tokyonight)
 </br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TieuVanHien&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TieuVanHien&layout=compact&theme=tokyonight&langs_count=8)
 </br>
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=ff69b4)
 
