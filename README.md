@@ -20,7 +20,6 @@
 ![](https://img.shields.io/badge/Programming%20Language-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/Frontend-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![](https://img.shields.io/badge/Frontend-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/Frontend-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/Frontend-SASS/SCSS-CC6699?logo=sass&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/Database-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
