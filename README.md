@@ -6,7 +6,7 @@
 
 -->
 ## My Github Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TieuVanHien&theme=tokyonight)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/TieuVanHien?cardType=github&theme=react&preferLogin=false)](https://git.io/awesome-stats-card)
 </br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TieuVanHien&layout=compact&theme=tokyonight&langs_count=8)
 </br>
