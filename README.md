@@ -17,6 +17,7 @@
 ![](https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=for-the-badge)
+![](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge)
