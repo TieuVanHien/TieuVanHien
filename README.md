@@ -23,7 +23,6 @@
 ![](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/CircleCI-000000?logo=circleci&logoColor=white&style=for-the-badge)
-</br>
 ![](https://img.shields.io/badge/SASS/SCSS-CC6699?logo=sass&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
