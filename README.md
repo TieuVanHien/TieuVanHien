@@ -8,7 +8,7 @@
 ## My Github Stats
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/TieuVanHien?cardType=github&theme=react&preferLogin=false)](https://git.io/awesome-stats-card)
 </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TieuVanHien&layout=compact&theme=dracula&hide=html&langs_count=8)](https://github.com/TieuVanHien/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TieuVanHien&layout=compact&theme=tokyonight&hide=html&langs_count=8)](https://github.com/TieuVanHien/github-readme-stats)
 </br>
 ![](https://komarev.com/ghpvc/?username=tieuvanhien&color=ff69b4)
 
