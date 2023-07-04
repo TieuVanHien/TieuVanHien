@@ -11,7 +11,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TieuVanHien&layout=compact&theme=dracula&hide=html,css&langs_count=8)](https://github.com/TieuVanHien/github-readme-stats)
 </br>
 ![](https://komarev.com/ghpvc/?username=tieuvanhien&color=ff69b4)
-
+</br>
+## My WakaTime Stat
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TieuVanHien01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ## My Tech Stack
 
 ![](https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=white&style=for-the-badge)
